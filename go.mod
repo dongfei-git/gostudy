@@ -2,4 +2,4 @@ module gostudy
 
 go 1.16
 
-// require golang.org/x/text v0.3.6
+require github.com/gomodule/redigo v2.0.0+incompatible
