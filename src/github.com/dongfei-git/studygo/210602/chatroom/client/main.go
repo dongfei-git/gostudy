@@ -16,7 +16,7 @@ func main() {
 	// 判断是否继续显示菜单
 	var loop = true
 
-	for {
+	for loop {
 		fmt.Println("------------欢迎登陆多人聊天系统---------------")
 		fmt.Println("\t\t\t 1 登陆聊天室")
 		fmt.Println("\t\t\t 2 注册用户")

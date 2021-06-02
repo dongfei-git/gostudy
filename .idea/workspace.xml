@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e16943b-5605-40bd-b647-148001527dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/github.com/dongfei-git/studygo/210601/02_redis02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/dongfei-git/studygo/210601/03_redis_pool/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/dongfei-git/studygo/210602/chatroom/client/login.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/dongfei-git/studygo/210602/chatroom/client/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/dongfei-git/studygo/210601/01_redis/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/dongfei-git/studygo/210601/01_redis/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="0e16943b-5605-40bd-b647-148001527dd7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update 2021-06-01 15:05:10" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 2021-06-01 15:05:10" />
+    <MESSAGE value="update 2021-06-02 11:15:08" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2021-06-02 11:15:08" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -144,9 +138,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-250.-1200.1920.1200@0.0.1440.900" timestamp="1622531145989" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1622531120875">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1622603717940">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-250.-1200.1920.1200@0.0.1440.900" timestamp="1622531120875" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-250.-1200.1920.1200@0.0.1440.900" timestamp="1622603717940" />
   </component>
 </project>
