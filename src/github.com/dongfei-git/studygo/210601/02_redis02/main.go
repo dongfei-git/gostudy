@@ -15,7 +15,7 @@ func main() {
 	fmt.Println("conn suc...", conn)
 
 	// set操作
-	_, err = conn.Do("Set", "name", "zhangsan")
+	_, err = conn.Do("HSet", "user01", "name", "zhangsan", "age", 29)
 	if err != nil {
 		fmt.Println("conn.Do err=", err)
 		return
@@ -23,7 +23,7 @@ func main() {
 	fmt.Println("set suc...")
 
 	// get操作
-	reply, err := redis.String(conn.Do("Get", "name"))
+	reply, err := redis.StringMap(conn.Do("HGetAll", "user01"))
 	if err != nil {
 		fmt.Println("conn.Do get err=", err)
 		return
